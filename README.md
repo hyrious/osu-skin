@@ -10,4 +10,5 @@ did not rename
 
 ### Update
 
-Spinner in 2.0.
+- Spinner in 2.0.
+- specify `Version: latest`.
